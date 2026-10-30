@@ -1,0 +1,1 @@
+A real time chat application(whatsapp clone) for Android, Ios, Website, and an electron desktop app
